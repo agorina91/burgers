@@ -1,0 +1,709 @@
+,Burgers,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Protein
+3,Single ShackBurger®,530,34,14,1,115,1260,26,0,6,29
+4,Double ShackBurger®,790,52,23,2,195,2280,27,0,6,51
+5,Single Hamburger,400,22,10,1,85,850,24,0,5,25
+6,Double Hamburger,590,34,15,1.5,150,1540,24,0,5,44
+7,Single Cheeseburger,470,28,14,1,105,1200,25,0,5,29
+8,Double Cheeseburger,730,46,22,2,185,2220,25,0,5,51
+9,‘Shroom Burger,550,31,12,0.5,55,670,49,0,7,18
+10,Shack Stack®,800,49,21,1.5,140,1700,50,0,7,40
+11,Single SmokeShackTM,610,39,16,1,130,2010,28,0,7,36
+12,Double SmokeShackTM,870,57,24,2,210,3030,28,0,7,58
+13,Roadside Double Burger*,770,46,20,2,175,2300,32,0,7,53
+14,Lockhart Link Burger*,810,60,24,1,165,2050,27,2,5,39
+15,"Lockhart Link Burger, Double*",1070,78,32,2,245,3080,28,2,6,61
+16,"Lockhart Link Burger, Triple*",1330,96,40,3,330,4110,29,2,6,83
+17,Link Burger*,720,51,20,1,155,2000,29,2,6,37
+18,"Link Burger, Double*",980,69,29,2,235,3020,29,2,7,59
+19,"Link Burger, Triple*",1240,87,37,3,315,4050,30,2,7,81
+20,"Green Chile CheddarShack, Single*",510,30,15,1,110,1380,28,1,6,30
+21,"Green Chile CheddarShack, Double*",780,50,24,1.5,195,2190,28,1,6,54
+22,Mound City Double*,810,52,22,1.5,195,2380,26,0,6,56
+23,"Crackle Shack, Single*",580,37,15,1,120,1400,25,0,5,34
+24,"Crackle Shack, Double*",770,49,20,2,185,2080,25,0,5,53
+25,Montlake Double Cut*,940,64,29,1.5,230,2470,36,0,5,54
+26,Golden State Double*,960,65,27,2,235,2200,41,0,9,52
+27,"Bacon Cheeseburger, single",540,33,15,1,120,1480,25,0,5,35
+28,"Bacon Cheeseburger, double",800,51,24,2,200,2510,25,0,6,58
+29,Veggie Shack*,530,27,7,0,20,1250,56,6,10,16
+30,"Veggie Shack, vegan, lettuce wrap*",310,18,1.5,0,0,900,31,4,6,4
+31,"Veggie Shack, vegan*",390,22,1.5,0,0,1130,50,6,8,6
+32,Grilled Cheese,350,22,13,0.5,55,850,25,0,5,14
+33,Martin's Potato Roll,210,10,6,0,20,170,24,0,5,7
+34,Gluten Free Bun,160,3.0,0,0,0,350,31,2,5,3
+35,Lettuce Wrap,5,0,0,0,0,15,1,1,0,1
+36,Burger Patty,190,12,4.5,0.5,65,690,0,0,0,19
+37,American Cheese,70,6,3.5,0,15,340,1,0,0,4
+38,ShackSauce,60,6,1,0,10,60,0,0,0,0
+39,Lettuce,1,0,0,0,0,0,0,0,0,0
+40,Tomato,5,0,0,0,0,0,1,0,0,0
+41,Pickle,1,0,0,0,0,140,0,0,0,0
+42,Onion,5,0,0,0,0,0,1,0,0,0
+43,Bacon (2 Slices),70,4.5,1.5,0,15,290,0,0,0,6
+44,Cherry Peppers,10,0,0,0,0,470,2,0,2,0
+49,Chick'n ShackTM,590,36,10,0,120,1170,34,0,6,33
+50,Hot Chick'N,560,31,9,0,115,1220,38,1,8,33
+51,Chick'n Bites (6 piece)*,300,19,3.5,0,50,780,15,0,1,17
+52,Chick'n Bites (10 piece)*,510,32,6,0,85,1300,26,0,2,29
+53,Herb Mayonnaise,90,10,0.5,0,10,140,0,0,0,0
+54,BBQ Sauce*,70,0,0,0,0,380,16,0,14,1
+55,Honey Mustard*,180,19,2.5,0.0,15,230,4,0,4,1
+57,Breakfast*,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+59,Bacon Breakfast Sandwich*,440,27,13,0.5,240,890,25,0,5,23
+61,Bacon Breakfast Sandwich (Double Egg)*,530,34,15,0.5,425,990,26,0,6,29
+63,Sausage Breakfast Sandwich*,560,37,16,0.5,270,1220,28,0,8,30
+65,Sausage Breakfast Sandwich (Double Egg)*,650,43,18,0.5,455,1310,28,0,8,36
+67,Egg and Cheese Breakfast Sandwich*,370,23,11,0.5,225,610,25,0,5,17
+70,Flat -Top Dogs,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+74,Hot Dog,390,26,12,0,60,800,25,0,6,16
+76,Chicken Dog,310,13,6,0,85,930,27,0,8,24
+78,Shack-cago Dog®,410,26,12,0.5,60,1500,29,0,9,17
+80,Chicken Shack-cago Dog®,330,13,6,0.5,85,1630,31,0,10,24
+81,Sausage Link*,240,20,7,0,40,682,2,0,0,9
+82,Publican Pork Sausage*,560,47,16,0,73,1188,14,1,1,13
+84,Garden Dog*,220,10,6,0.5,20,1020,28,1,8,8
+86,Add Cheese Sauce,80,7,5,0,30,95,1,0,0,2
+88,Add Rick’s Picks Shack Relish,5,0,0,0,0,15,1,0,1,0
+90,Fries,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+94,Regular Fries,470,22,4.5,0,15,740,63,7,1,6
+96,Cheese Fries,710,44,19,0,95,1020,64,7,1,12
+98,Bacon Cheese Fries,840,52,21,0,125,1570,65,7,1,24
+100,Double Down Fries*,1910,117,49,1,270,4020,164,16,5,41
+102,Big Bob's Cheese Fries*,800,46,19,0,115,1020,92,7,11,17
+105,Shakes,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+106,Vanilla Shake,680,36,22,0,235,430,72,0,71,18
+107,Vanilla Shake (12oz),500,27,16,0,175,320,53,0,52,13
+108,Chocolate Shake,750,45,27,1.5,255,310,76,0,69,16
+109,Chocolate Shake (12oz),550,33,20,1,190,220,56,0,51,12
+110,Salted Caramel Shake,840,42,26,0,260,950,99,0,96,17
+111,Salted Caramel Shake (12oz),630,32,20,0,195,720,74,0,72,13
+112,Black & White Shake,770,42,26,0,245,460,80,0,76,19
+114,Black & White Shake (12oz),580,32,19,0,180,350,60,0,58,14
+116,Strawberry Shake,690,35,21,0,230,430,77,0,75,17
+118,Strawberry Shake (12oz),520,27,16,0,175,320,58,0,56,13
+120,Cookies & Cream Shake,850,44,24,0,235,580,98,0,86,19
+122,Cookies & Cream Shake (12oz),630,33,18,0,175,430,73,0,64,15
+124,Coffee Shake,680,35,22,0,235,420,74,0,70,18
+126,Coffee Shake (12oz),510,27,16,0,175,320,56,0,52,14
+128,Peachtree Shake*,770,38,23,0,240,670,95,0,91,16
+130,Traffic JAM Shake*,790,35,21,0,230,410,106,0,102,17
+132,Bourbon Salted Caramel Shake*,890,44,27,0,260,700,89,0,87,18
+134,Loaded Chocolate Cookies & Cream Shake*,1160,56,32,1.5,265,450,126,0,108,17
+136,TKO' Clock Chocolate Cookies & Cream Shake*,1020,59,33,1.5,270,500,112,0,92,19
+138,Bananas Foster Shake*,850,42,26,0,255,940,107,0,103,16
+140,Whipped Cream,70,5,3.5,0,20,20,5,0,4,1
+143,Floats,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Protein
+145,Root Beer Float,430,15,9,0,100,220,70,0,69,7
+147,Purple Cow Float,460,15,9,0,100,210,79,0,78,7
+149,Creamsicle® Float,440,15,9,0,100,240,75,0,74,7
+152,Cups & Cones,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+154,Single Chocolate Cup,310,19,11,0.5,110,120,32,0,29,6
+156,Double Chocolate Cup,490,30,18,1,175,190,51,0,47,9
+158,Single Vanilla Cup,280,15,9,0,100,180,30,0,30,7
+160,Double Vanilla Cup,450,24,14,0,165,280,49,0,48,11
+162,Single Vanilla & Chocolate Cup,290,17,10,0,105,150,31,0,29,6
+164,Double Vanilla & Chocolate Cup,470,27,16,0,170,230,50,0,47,10
+166,Single Chocolate Cone,360,20,11,0.5,110,180,42,0,33,7
+168,Double Chocolate Cone,540,31,18,1,175,250,61,0,50,10
+170,Single Vanilla Cone,330,15,9,0,100,230,41,0,33,7
+172,Double Vanilla Cone,500,24,15,0,165,340,59,0,51,11
+174,Single Vanilla & Chocolate Cone,340,17,10,0,105,200,41,0,33,7
+176,Double Vanilla & Chocolate Cone,520,28,16,0,170,290,60,0,51,11
+180,Concretes**,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carbs,Fiber,Sugars,Protein
+182,125th Street Treat,460,21,12,0,130,310,61,0,51,9
+184,125th Street Treat (Double),930,41,24,0,265,610,122,1,102,18
+186,24 Carrot Magic,480,27,14,0.5,150,200,55,0,44,9
+188,24 Carrot Magic (Double),970,54,27,1.5,295,390,111,0,89,17
+190,a la Rhode,410,20,12,0,120,340,52,0,48,8
+192,a la Rohde (Double),820,40,25,0,240,680,102,1,94,16
+194,A Sprinkle In Time,500,23,14,1,140,250,66,0,54,8
+196,A Sprinkle In Time (Double),1000,46,27,1.5,280,500,132,0,108,17
+198,All-In,520,27,17,0,140,480,61,0,58,8
+200,All-In (Double),1030,55,34,0.5,280,960,122,0,115,16
+202,Austin Street Treat,420,23,14,0.5,130,290,51,0,42,7
+204,Austin Street Treat (Double),840,46,28,1.5,255,590,101,1,85,14
+206,Back Bay Blend,560,33,21,1,150,410,64,0,58,7
+208,Back Bay Blend (Double),1130,67,41,2,300,820,129,1,116,14
+210,Banana Buyout,400,20,12,0,120,340,50,0,47,8
+212,Banana Buyout (Double),800,40,25,0,240,680,99,0,93,16
+214,Banana Caramel Crunch,420,19,11,0,120,390,48,0,46,8
+216,Banana Caramel Crunch (Double),850,38,23,0,240,790,112,1,91,17
+218,Banana Post Road,430,27,16,0.5,120,530,45,0,38,8
+220,Banana Post Road (Double),860,54,33,1.5,240,1060,91,1,745,15
+222,Bathazar Blender,560,30,18,0,150,440,64,0,51,10
+224,Bathazar Blender (Double),1120,60,37,0.5,305,890,127,0,101,21
+226,Bergen County Blend,420,22,13,0,130,250,48,0,40,9
+228,Bergen County Blend (Double),850,44,27,0,255,500,96,1,80,18
+230,Berry Blender,410,21,12,0.5,120,250,49,0,40,8
+232,Berry Blender (Double),820,42,25,1,240,500,97,0,81,16
+234,Beverly Chills,540,29,18,0,130,420,62,0,56,9
+236,Beverly Chills (Double),1070,58,37,0,260,850,124,0,113,18
+238,Birming Graham,460,20,11,0,130,250,62,0,50,9
+240,Birming Graham (Double),920,40,22,0,265,510,123,1,101,17
+242,Black & White Cookie,450,25,15,0,130,230,51,0,41,8
+244,Black & White Cookie (Double),900,51,30,0.5,255,450,102,0,82,16
+246,Blackout Cookie,530,30,14,0.5,120,210,62,0,46,8
+248,Blackout Cookie (Double),1060,60,29,1.5,240,430,125,0,92,15
+250,Brownie Points,540,28,15,1,135,490,64,0,57,10
+252,Brownie Points (Double),1070,56,29,2.5,275,980,129,0,114,19
+254,Buffalo Street Brownie,520,26,14,0,125,410,68,0,57,9
+256,Buffalo Street Brownie (Double),1050,52,29,0,250,830,135,0,114,19
+258,Burrowing Banana,400,23,14,0.5,130,270,48,0,41,7
+260,Burrowing Banana (Double),790,48,28,1.5,255,530,91,1,81,13
+262,Busy Bee,460,24,12,0,110,270,53,0,43,9
+264,Busy Bee (Double),920,47,23,0,225,530,106,1,86,19
+266,California Cold Rush,440,23,14,0,130,390,50,1,42,9
+268,California Cold Rush (Double),880,46,28,0,255,780,100,1,85,17
+270,Camden County Caramel,480,25,15,0,120,360,58,0,51,9
+272,Camden County Caramel (Double),970,50,30,0,240,710,117,0,102,18
+274,Campfire S'mores,560,31,18,0.5,120,200,66,0,50,9
+276,Campfire S'mores (Double),1110,63,36,1.5,240,400,131,1,100,18
+278,Caramel Aficiona-Dough,490,26,15,0,140,420,57,0,40,9
+279,Caramel Aficiona-Dough (Double),980,52,30,0,275,840,114,0,79,18
+280,Caramel Apple Fritter,540,29,16,0,120,510,62,0,43,10
+281,Caramel Apple Fritter (Double),1090,57,32,0,240,1030,123,0,86,21
+282,Caramel Bourbon Twist,460,24,15,0,130,400,54,0,51,8
+283,Caramel Bourbon Twist (Double),920,49,30,0,260,800,108,0,102,16
+284,Caramel Carousel,420,19,11,0,120,390,54,0,45,8
+285,Caramel Carousel (Double),830,38,23,0,240,790,108,0,90,17
+286,Caramel Cone,410,20,12,0,120,360,50,0,45,8
+287,Caramel Cone (Double),810,40,25,0,240,720,101,0,90,16
+288,Caramel Crumble,410,20,12,0,120,360,50,0,45,8
+289,Caramel Crumble (Double),810,40,25,0,240,720,101,0,90,18
+290,Caruso's Crunch,470,24,14,0.5,130,340,55,0,50,8
+291,Caruso's Crunch (Double),930,48,27,1.5,265,690,109,0,101,16
+292,Cary Cookie Crumble,460,22,11,0,110,260,57,0,49,9
+293,Cary Cookie Crumble (Double),920,45,22,0,225,510,114,0,98,17
+294,Central West Blend,550,26,15,0,155,620,71,0,61,10
+295,Central West Blend (Double),1100,52,29,0,310,1240,141,0,122,19
+296,"Choc 'n' Roll, Defend the Blend",550,30,18,0.5,135,430,68,0,58,8
+297,"Choc 'n' Roll, Defend the Blend (Double)",1090,61,35,1.5,270,870,136,0,115,16
+298,Choc heard Round the World,470,28,17,0.5,130,180,52,1,44,9
+299,Choc Heard Round the World (Double),930,56,34,1.5,260,350,105,2,87,18
+300,Choc of the Town,480,30,19,0.5,125,150,50,0,41,8
+301,Choc of the Town (Double),960,61,37,1.5,250,310,99,1,82,16
+302,Chocolate and Chip,570,35,17,1,130,310,59,0,45,8
+303,Chocolate and Chip (Double),1150,71,34,1.5,265,620,119,0,90,16
+304,Chocolate Caramel Crunchcrete,520,30,19,1,140,340,60,0,53,7
+305,Chocolate Caramel Crunchcrete (Double),1040,61,37,1.5,280,690,120,0,107,15
+306,Chocolate Caramel Pretzel,480,25,15,0,125,370,54,0,47,9
+307,Chocolate Caramel Pretzel (Double),950,51,30,0,250,740,107,0,95,18
+308,Chocolate Caramel Pretzel Crunch,510,30,18,0.5,135,310,55,0,47,8
+309,Chocolate Caramel Pretzel Crunch (Double),1020,60,35,1.5,270,610,111,1,93,18
+310,Chocolate Chip Cookie,600,37,22,0.5,150,370,66,0,43,9
+311,Chocolate Chip Cookie (Double),1200,73,43,1.5,295,730,131,1,86,18
+312,Chocolate Minted Marshmallow,430,24,14,0.5,125,150,53,0,46,7
+313,Chocolate Minted Marshmallow (Double),860,48,29,1.5,350,300,105,0,92,15
+314,Chocolate Thayer Cake,580,34,19,1,155,280,64,0,52,8
+315,Chocolate Thayer Cake (Double),1160,68,38,1.5,305,560,129,0,104,17
+316,Chocolate Truffle Cookie Cone,420,22,13,0,120,210,52,0,44,8
+317,Chocolate Truffle Cookie Cone (Double),840,44,26,0.5,240,410,104,0,88,16
+318,Churn of the Century,590,36,14,0,130,450,56,0,45,14
+319,Churn of the Century (Double),1180,73,27,0,255,890,112,0,90,28
+320,Coffee & Donuts,460,23,12,0,115,290,55,0,41,9
+321,Coffee & Donuts (Double),920,45,23,0,225,580,111,0,83,19
+322,Coffee Caramel Popcorn,410,20,12,0,120,400,47,0,43,10
+323,Coffee Caramel Popcorn (Double),810,41,23,0,245,790,94,0,87,19
+324,Coffee Toffee,450,22,14,0,120,270,56,0,42,8
+325,Coffee Toffee (Double),900,45,28,0,245,540,113,0,105,18
+326,cOLD Fashioned,490,25,14,0,120,460,57,0,47,9
+327,cOLD Fashioned (Double),970,51,29,0,245,920,114,1,93,18
+328,Cold Shot,550,30,18,0.5,145,490,66,0,61,7
+329,Cold Shot (Double),1080,58,36,1,290,880,130,0,121,15
+330,Coldspot,500,23,13,0,120,400,65,0,54,10
+331,Coldspot (Double),1000,47,25,0,240,810,130,0,109,20
+332,Colonial Custard,440,21,13,0,140,250,53,0,44,8
+333,Colonial Custard (Double),870,43,26,0,280,500,106,0,88,17
+334,Concrete of Troy,520,26,14,0,125,410,68,0,57,9
+335,Concrete of Troy (Double),1050,52,29,0,250,830,135,0,114,19
+336,Cookie & Coffee,450,24,15,0,125,350,52,0,43,9
+337,Cookie & Coffee (Double),910,49,30,0,250,700,104,0,87,17
+338,Cookie Butter Blender,570,32,18,0,135,370,63,0,57,9
+339,Cookie Butter Blender (Double),1140,65,36,0.5,265,730,126,0,114,17
+340,Cookie Butter Crunchcrete,530,32,18,1,130,230,56,0,48,8
+341,Cookie Butter Crunchcrete (Double),1050,65,35,1.5,265,460,112,0,97,15
+342,Cookie-Crumble,460,22,11,0,110,260,57,0,49,9
+343,Cookie-Crumble (Double),920,45,22,0,225,510,114,0,98,17
+344,Cookie Dough Country,500,31,16,0.5,125,270,51,0,41,10
+345,Cookie Dough Country (Double),1000,63,31,1.5,250,540,102,0,81,20
+346,Coral Crisp,500,22,13,0,120,470,72,0,57,9
+347,Coral Crisp (Double),1000,43,26,0,240,940,144,0,114,18
+348,Crimson Red Velvet,360,19,11,0,120,250,40,0,37,8
+349,Crimson Red Velvet (Double),720,38,22,0,235,510,79,0,74,16
+350,Cross County Crunch,520,29,18,0,130,420,60,0,54,9
+351,Cross County Crunch (Double),1040,58,36,0,260,830,118,0,108,18
+352,Crunch Time,470,22,13,0,120,350,59,0,53,9
+353,Crunch Time (Double),930,44,26,0,240,710,119,0,106,17
+354,Crunch-stellation,470,24,15,0,125,290,57,0,52,9
+355,Crunch-stellation (Double),930,49,30,0,245,580,114,0,105,17
+356,Cup | Cake Crunch,530,28,15,0,135,340,61,0,55,9
+357,Cup | Cake Crunch (Double),1060,57,31,0,265,690,123,0,109,18
+358,D.O.D-licious,510,27,16,0,140,420,60,0,42,9
+359,D.O.D-licious (Double),1010,54,31,0,275,850,118,0,83,18
+360,Da' S'more,500,26,14,0.5,125,200,63,0,50,8
+361,Da' S'more (Double),990,52,29,1.5,250,410,126,1,99,16
+362,Dallas Dough,580,31,18,0.5,130,190,70,0,55,9
+363,Dallas Dough (Double),1160,63,35,1.5,255,380,140,0,110,19
+364,Darien Cookie Dough,550,30,18,0,145,480,63,0,47,9
+365,Darien Cookie Dough (Double),1090,59,35,0,295,960,127,0,95,18
+366,Declaration of Donuts,560,28,16,0,125,410,69,0,58,9
+367,Declaration of Donuts (Double),1120,56,32,0,250,830,137,0,115,19
+368,Defend the Blend,600,35,19,0.5,165,430,69,0,59,9
+369,Defend the Blend (Double),1190,69,38,1.5,330,860,139,0,117,18
+370,Del Rey Way,430,23,12,0,115,290,49,0,35,9
+371,Del Rey Way (Double),860,45,23,0,225,580,97,0,71,18
+372,Devil's In The Details,550,31,16,1,150,460,64,0,50,9
+373,Devil's In The Details (Double),1100,62,32,1.5,295,910,128,0,100,17
+374,Do It For The Graham,460,20,11,0,130,250,62,0,50,9
+375,Do It For The Graham (Double),920,40,22,0,265,510,123,1,101,17
+376,Double Chocolate Trouble,490,26,15,0,140,420,57,0,40,9
+377,Double Chocolate Trouble (Double),980,52,30,0,275,840,114,0,79,18
+378,Doughnut Look Swell,440,23,13,0,115,330,49,0,40,9
+379,Doughnut Look Swell (Double),880,47,26,0,230,660,99,0,81,18
+380,Doughnuts Are Forever,370,19,11,0,110,220,42,0,37,8
+381,Doughnuts are Forever (Double),730,37,21,0.5,225,440,84,1,74,16
+382,Downtown Butter Brown,390,20,12,0,110,220,45,0,39,8
+383,Downtown Butter Brown (Double),780,39,24,0,225,440,90,0,77,16
+384,DTLA,480,30,19,0.5,125,150,50,0,41,8
+385,DTLA (Double),960,61,37,1.5,250,310,99,1,82,16
+386,Dust Devil,460,22,13,0,125,390,599,0,51,8
+387,Dust Devil (Double),920,44,27,0,255,790,118,0,101,17
+388,Easton Bound,470,24,15,0,135,390,55,0,47,9
+389,Easton Bound (Double),940,48,30,0,270,770,111,1,94,18
+390,Eaton' Around Town,510,28,17,1,130,190,63,0,51,8
+391,Eaton' Around Town (Double),1010,55,33,1.5,260,390,127,0,102,16
+392,Elm City Coffee Break,570,30,14,0,115,340,68,0,51,10
+393,Elm City Coffee Break (Double),1150,59,28,0,235,690,136,0,101,19
+394,Empire State,550,30,16,1,125,240,65,0,48,9
+395,Empire State (Double),1090,61,31,1.5,250,470,131,1,97,18
+396,Even S'more,520,27,15,0.5,125,210,66,0,52,8
+397,Even S'more (Double),1040,55,30,1.5,255,420,133,1,104,17
+398,Eye Drive,530,29,18,0,140,470,63,0,59,8
+399,Eye Drive (Double),1070,58,36,0.5,280,950,125,1,117,16
+400,Falls Fashion,430,22,13,0,120,390,50,0,44,8
+401,Falls Fashion (Double),850,44,26,0,240,790,101,1,88,17
+402,Fidi Fudge,470,28,17,0.5,130,180,52,1,44,9
+403,Fidi Fudge (Double),930,56,34,1.5,260,350,104,2,86,17
+404,Fluff'N Foster,490,22,12,0,130,340,64,0,55,9
+405,Fluff'N Foster (Double),970,44,24,0,260,680,129,1,109,18
+406,Fly Me To The Shack,550,35,21,0.5,130,170,58,0,48,9
+407,Fly Me To The Shack (Double),1100,70,43,1.5,260,340,117,0,96,18
+408,Fudge-eddaboutit,470,30,19,0.5,125,150,47,1,39,8
+409,Fudge-eddaboutit (Double),940,60,37,1.5,250,310,95,1,79,16
+410,Garden State,440,21,13,0,125,320,55,0,36,9
+411,Garden State (Double),880,43,25,0,250,650,110,0,72,18
+412,Give My Regards,520,29,18,0,130,420,60,0,54,9
+413,Give My Regards (Double),1040,58,36,0,260,830,118,0,108,18
+414,Glades Donuts,470,25,15,0,125,400,52,0,47,8
+415,Glades Donuts (Double),930,51,30,0,255,800,105,0,93,16
+416,Glazed Dazed Doughnut,520,28,16,0,130,490,61,0,52,9
+417,Glazed Dazed Doughnut (Double),1050,56,33,0,265,990,121,0,104,17
+418,Grahammy Nominated,390,18,10,0,110,250,50,1,40,8
+419,Grahammy Nominated (Double),790,37,20,0,225,500,100,2,80,17
+420,Great Salted Dessert,480,22,13,0,130,400,63,0,55,9
+421,Great Salted Dessert (Double),960,44,27,0,255,790,126,0,109,17
+422,Going Yard,520,26,14,0,125,410,68,0,57,9
+423,Going Yard (Double),1050,52,29,0,250,830,135,0,114,19
+424,Heights Bites,560,28,14,0,160,570,72,0,64,9
+425,Heights Bites (Double),1130,56,28,0,315,1150,143,0,128,17
+426,Hill of Beans,480,25,15,0,125,350,60,1,52,10
+427,Hill of Beans (Double),970,51,31,0,245,700,120,2,105,19
+428,Home-ward Bound,510,30,17,0.5,135,300,59,0,48,8
+429,Home-ward Bound (Double),1020,59,35,1.5,265,600,117,0,97,16
+430,Hopscotch,510,29,18,0,130,400,56,0,51,9
+431,Hopscotch (Double),1020,57,36,0,260,810,113,0,103,17
+432,Hopscotch (Roadie)*,2040,115,72,1,520,1610,226,0,206,34
+433,Invictus,490,29,18,0.5,130,300,55,0,45,8
+434,Invictus (Double),980,58,36,1.5,255,600,109,0,89,16
+435,Jitney,490,26,15,0,140,57,57,0,40,9
+436,Jitney (Double),980,52,30,0,275,840,114,0,79,18
+437,Just Du It,570,29,16,0,150,470,68,0,58,9
+438,Just Du It (Double),1130,59,32,0,295,940,137,0,116,18
+439,Kierland Campfire,530,29,16,0.5,120,190,62,0,48,9
+440,Kierland Campfire (Double),1050,58,32,1.5,245,390,124,1,95,17
+441,King Neptune's Swirl,360,17,10,0,110,220,45,0,39,8
+442,King Neptune's Swirl (Double),710,33,20,0,225,450,89,1,78,16
+443,Larks-Brr,370,16,10,0,110,280,50,0,43,8
+444,Larks-Brr (Double),750,33,20,0,225,520,99,0,85,16
+445,Lemon Grove,460,20,11,0,130,250,62,0,50,9
+446,Lemon Grove (Double),920,40,22,0,265,510,123,1,101,17
+447,Liberty Shell,380,19,11,0,120,200,43,0,39,9
+448,Liberty Shell (Double),750,38,23,0,235,410,86,0,79,18
+449,Logan Swirl,500,27,15,0,130,450,58,0,52,8
+450,Logan Swirl (Double),1000,54,31,0,265,900,117,0,103,17
+451,Lower West Side,480,28,17,0.5,120,150,52,4,44,9
+452,Lower West Side (Double),970,56,33,1.5,245,310,105,7,88,18
+453,M Street Treat,510,27,16,0,120,260,64,0,53,10
+454,M Street Treat (Double),1030,54,33,0,245,530,129,1,106,20
+455,Macaron Swoon,430,20,13,0,135,210,52,0,47,9
+456,Macaron Swoon (Double),850,40,27,0,270,410,104,0,93,17
+457,'Mallow Monsoon,420,22,13,0,120,210,53,0,45,8
+458,'Mallow Monsoon (Double),850,44,26,0.5,240,410,105,1,89,16
+459,Malt of America,460,22,13,0,125,390,58,0,50,8
+460,Malt of America (Double),920,44,27,0,255,790,117,0,100,17
+461,Malt Whitman,510,26,15,0,125,300,61,0,42,10
+462,Malt Whitman (Double),1010,51,29,0,250,610,123,0,83,20
+463,"Maple, Bacon and Banana",440,24,13,0,120,430,48,0,40,11
+464,"Maple, Bacon and Banana (Double)",890,47,26,0,235,860,96,1,79,22
+465,Marshmallow C.R.E.M.E.,550,29,16,0.5,125,220,720,0,58,9
+466,Marshmallow C.R.E.M.E. (Double),1100,57,31,1.5,250,440,144,0,116,17
+467,MB Malt,430,24,13,0,115,250,47,0,40,8
+468,MB Malt (Double),870,48,26,0,235,510,94,1,79,17
+469,Metairie Mixer,500,28,15,0,130,290,55,0,52,9
+470,Metairie Mixer (Double),1010,56,31,0,255,580,110,0,104,17
+471,Millenia Malt,500,29,18,0.5,120,160,60,0,51,8
+472,Millenia Malt (Double),1010,57,35,1.5,245,310,120,0,102,16
+473,Millennium Perk,480,24,13,0,115,330,58,0,47,9
+474,Millennium Perk (Double),950,47,26,0,230,660,115,1,94,18
+475,Mindy's Mix Up,490,26,15,0,140,420,57,0,40,9
+476,Mindy's Mix Up (Double),980,52,30,0,275,840,114,0,79,18
+477,MINT Chocolate,430,24,14,0.5,120,150,53,0,46,7
+478,MINT Chocolate (Double),860,48,29,1.5,250,300,105,0,92,15
+479,Minted Magic,460,26,15,0.5,125,150,57,0,50,8
+480,Minted Magic (Double),920,51,31,1.5,250,300,114,0,99,15
+481,Missi-chip-pi Fudge,430,24,14,0,125,260,46,0,36,9
+482,Missi-chip-pi Fudge (Double),850,47,28,0,255,520,92,0,73,17
+483,Mix In Control,490,22,14,0,130,300,65,0,54,10
+484,Mix In Control (Double),990,44,27,0,260,600,130,0,108,19
+485,Motor City Mix,470,27,16,0,130,260,48,0,46,9
+486,Motor City Mix (Double),930,53,32,0,260,510,97,0,91,18
+487,Mount Tam Graham,520,29,16,0.5,120,200,63,0,48,8
+488,Mount Tam Graham (Double),1040,58,33,1.5,240,390,125,1,96,17
+489,Murray Hill Malt,550,31,19,0.5,125,180,62,4,51,10
+490,Murray Hill Malt (Double),1100,62,37,1.5,250,350,125,7,102,20
+491,Music City 'Mallow,490,25,15,0.5,130,310,62,0,53,8
+492,Music City 'Mallow (Double),980,51,30,1.5,255,630,125,0,107,15
+493,Natural History Crunch-stellation,460,24,15,0,125,280,55,0,51,8
+494,Natural History Crunch-stellation (Double),920,48,30,0,245,570,110,0,101,17
+495,NewBERRY,350,17,10,0,110,220,44,0,39,8
+496,NewBERRY (Double),710,33,20,0,225,450,88,1,79,16
+497,New Castle,570,32,18,0,135,370,63,0,57,9
+498,New Castle (Double),1140,65,36,0.5,265,730,126,0,114,17
+499,Nothin' But Nets,470,22,13,0,115,300,66,0,50,9
+500,Nothin' But Nets (Double),940,44,26,0.5,235,610,131,0,99,17
+501,O Town Blend,510,27,15,0,130,500,59,0,54,8
+502,O Town Blend (Double),1020,55,29,0,255,990,118,0,109,17
+503,Oh Fudge,470,29,17,0.5,130,170,51,0,44,8
+504,Oh Fudge (Double),940,58,35,1.5,260,330,103,0,88,16
+505,Old Country Rocky Road,520,31,15,0.5,125,150,56,2,47,10
+506,Old Country Rocky Road (Double),1030,63,30,1.5,250,300,111,3,94,20
+507,One Stop Choc,540,30,17,0.5,140,230,66,0,45,8
+508,One Stop Choc (Double),1090,61,35,1.5,280,470,132,0,89,17
+509,OrlanDOUGH,510,28,16,0.5,125,170,61,0,51,8
+510,OrlanDOUGH (Double),1010,55,32,1.5,255,340,123,0,101,17
+511,Pearl & Pecan,530,33,15,0,130,400,51,1,49,9
+512,Pearl & Pecan (Double),1060,66,30,0,260,800,103,3,96,18
+513,Penthouse Sweet,480,28,17,0.5,140,410,55,0,42,8
+514,Penthouse Sweet (Double),960,57,33,1.5,275,830,110,0,85,15
+515,Pie Oh My,490,25,13,0,115,320,54,0,44,8
+516,Pie Oh My (Double),970,51,26,0,230,640,109,1,88,17
+517,Pie Oh My (Roadie)*,1950,101,52,0,460,1290,218,2,175,33
+518,Presidential Sweet,470,22,14,0,120,340,59,0,56,9
+519,Presidential Sweet (Double),940,45,28,0,245,680,118,1,112,17
+520,Pretzel Place,500,29,17,0.5,135,350,56,3,48,8
+521,Pretzel Place (Double),1000,57,34,1.5,265,710,113,6,95,16
+522,Pretzel the Concrete,540,32,15,0.5,125,250,57,0,47,10
+523,Pretzel the Concrete (Double),1070,63,31,1.5,245,510,115,0,94,20
+524,Rainbow Connection,460,24,12,0,115,300,53,0,37,9
+525,Rainbow Connection (Double),920,48,24,0.5,225,600,105,0,74,19
+526,Red Velvet Rock,460,24,13,0,130,380,52,0,45,9
+527,Red Velvet Rock (Double),920,48,26,0,265,760,105,0,90,18
+528,Revere's Tracks,490,26,16,0,130,410,58,0,54,8
+529,Revere's Tracks (Double),970,52,32,0,260,810,117,0,109,16
+530,Rittenhouse,440,24,14,0.5,125,150,54,1,46,8
+531,Rittenhouse (Double),890,49,29,1.5,250,300,109,1,91,16
+532,Royal Sweet,460,22,11,0,110,250,56,0,49,8
+533,Royal Sweet (Double),910,45,22,0,225,500,112,0,98,17
+534,Royal Treatment,370,16,10,0,110,260,50,0,43,8
+535,Royal Treatment (Double),750,33,20,0,225,520,99,0,85,16
+536,Salt N' San Diego,390,19,11,0,120,360,49,0,43,8
+537,Salt N' San Diego (Double),780,37,23,0,240,710,98,1,86,16
+538,Salt N' Sunset,470,25,13,0,120,420,53,0,40,9
+539,Salt N' Sunset (Double),930,49,26,0,240,850,106,0,79,18
+540,Salted Carame'L',430,22,12,0,115,310,49,0,37,9
+541,Salted Carame'L' (Double),860,45,23,0,230,630,99,1,73,18
+542,Salted Caramel Crunch - Henderson,460,23,14,0,130,410,58,0,55,8
+543,Salted Caramel Crunch (Double) - Henderson,930,46,28,0,160,820,115,0,110,16
+544,Salted Caramel Crunch - Kierland Commons,520,29,18,0.5,145,440,59,0,55,7
+545,Salted Caramel Crunch (Double) - Kierland Coomons,1040,59,37,1.5,290,880,118,0,110,14
+546,Salty Balty,510,29,17,0,135,650,59,0,45,9
+547,Salty Balty (Double),1030,58,35,1,270,1310,120,0,91,18
+548,Seaport Salt and Malt,550,33,20,1,140,350,60,0,52,8
+549,Seaport Salt and Malt (Double),1110,67,40,1.5,280,700,121,0,105,16
+550,Seawolf Swirl,430,22,13,0.5,120,260,51,0,42,8
+551,Seawolf Swirl (Double),860,43,25,1.5,245,510,101,0,83,17
+552,Shack Attack,550,35,21,0.5,130,170,58,0,48,9
+553,Shack Attack (Double),1090,69,43,1.5,255,340,116,0,95,18
+554,Shack Attack (Roadie)*,2200,140,86,3,520,690,234,0,193,36
+555,Shacky Road,520,31,15,0.5,125,150,56,2,47,10
+556,Shacky Road (Double),1030,63,30,1.5,250,300,111,3,94,20
+557,Shake-ney,490,25,15,0.5,130,310,62,0,53,8
+558,Shake-ney (Double),980,51,30,1.5,255,630,125,0,107,15
+559,Shark Attack,580,37,21,0.5,125,180,62,0,50,9
+560,Shark Attack (Double),1170,74,41,1.5,250,360,123,0,100,18
+561,Shell Game,480,25,13,0,115,230,55,1,45,10
+562,Shell Game (Double),960,50,27,0,235,460,111,1,90,21
+563,Short & Sweet,450,22,13,0,130,380,56,1,46,8
+564,Short & Sweet (Double),900,44,27,0,255,760,112,1,93,17
+565,Skull and Cones,550,31,18,0,130,240,66,0,53,10
+566,Skull and Cones (Double),1100,62,35,1,255,490,131,0,105,19
+567,S'More,560,31,18,0.5,120,200,66,0,50,9
+568,S'More (Double),1110,63,36,1.5,240,400,132,1,100,18
+569,S'more Cookie Dough,520,27,15,0.5,125,210,66,0,52,8
+570,S'more Cookie Dough (Double),1040,55,30,1.5,255,420,133,1,104,17
+571,S'Mores Please,520,29,16,0.5,120,200,63,0,48,8
+572,S'Mores Please (Double),1040,58,33,1.5,240,390,125,1,96,17
+573,SMOREScode,470,24,12,0.5,120,220,61,1,46,8
+574,SMOREScode (Double),950,48,25,1.5,240,440,122,1,92,16
+575,"Snap, Crackle Crete",370,16,10,0,110,260,50,0,43,8
+576,"Snap, Crackle Crete (Double)",750,33,20,0,225,520,99,0,85,16
+577,Somer Break,470,24,13,0.5,130,350,57,0,50,9
+578,Somer Break (Double),950,48,27,1.5,260,700,115,0,100,18
+579,Spoon Feed,510,28,15,1,135,370,57,0,50,10
+580,Spoon Feed (Double),1020,56,29,2.5,270,740,114,0,100,19
+581,Sticky Bun Banana,520,26,16,0,145,520,63,0,54,9
+582,Sticky Bun Banana (Double),1030,52,32,0,285,1040,125,1,107,18
+583,Strawberry Banana Cone-Crete,360,17,10,0,110,220,45,0,39,8
+584,Strawberry Banana Cone-Crete (Double),710,33,20,0,225,450,89,1,78,16
+585,Strawberry Banana Crunch,360,17,10,0,110,220,45,0,39,8
+586,Strawberry Banana Crunch (Double),710,33,20,0,225,450,89,1,78,16
+587,Strawberry Banana Crunchcake,400,20,12,0,120,250,49,0,40,8
+588,Strawberry Banana Crunchcake (Double),810,40,24,0,240,490,98,1,80,16
+589,Strawberry Country Crunch,360,17,10,0,110,220,45,0,39,8
+590,Strawberry Country Crunch (Double),710,33,20,0,225,450,89,1,78,16
+591,Strawberry Crunchcake,380,17,10,0,110,230,51,0,46,8
+592,Strawberry Crunchcake (Double),770,33,20,0,225,450,103,0,92,16
+593,Strawberry Sunset,380,18,10,0.5,110,220,47,0,41,8
+594,Strawberry Sunset (Double),760,36,21,1.5,225,450,94,0,81,16
+595,Strike Cone,520,28,17,0,125,260,65,0,54,10
+596,Strike Cone (Double),1040,55,33,0,245,530,131,0,108,20
+597,Summerlin S'more,440,23,13,0.5,125,170,54,0,45,7
+598,Summerlin S'more (Double),870,47,27,1.5,245,340,108,0,91,15
+599,Takes the CupCAKE,540,30,16,1,130,330,61,0,53,9
+600,Takes the CupCAKE (Double),1070,61,32,2,260,650,122,0,105,18
+601,"The ""U"" Malt",500,28,17,0.5,130,200,580,0,50,9
+602,"The ""U"" Malt (Double)",990,56,34,1.5,265,410,116,0,101,18
+603,The Breakfast Club,410,20,12,0,120,380,50,0,43,8
+604,The Breakfast Club (Double),820,40,23,0,245,750,99,1,86,16
+605,The Concrete Jungle - Buckhead,460,25,13,0,115,230,52,0,45,9
+606,The Concrete Jungle (Double) - Buckhead,910,50,26,0,230,470,103,1,90,18
+607,The Concrete Jungle - MSP,450,25,13,0,115,240,48,0,43,9
+608,The Concrete Jungle (Double) - MSP,910,51,27,0,235,480,97,1,86,17
+609,The Empire Shacks Back,430,23,12,0,120,370,49,0,42,8
+610,The Empire Shacks Back (Double),840,45,24,0,235,700,96,0,82,16
+611,The Great Escape,380,19,11,0,115,240,45,0,40,8
+612,The Great Escape (Double),760,38,21,0,225,480,90,0,81,16
+613,The Great White Way,370,16,10,0,110,260,50,0,43,8
+614,The Great White Way (Double),750,33,20,0,225,520,99,0,85,16
+615,Tinseltown Toffee,540,33,21,1,140,340,58,0,51,8
+616,Tinseltown Toffee (Double),1080,66,41,1.5,280,680,116,0,101,15
+617,Toffee Takeoff,520,27,17,0,140,480,61,0,57,8
+618,Toffee Takeoff (Double),1030,55,34,0.5,280,960,122,0,115,16
+619,Township Toffee,530,30,18,0.5,145,450,62,0,57,7
+620,Township Toffee (Double),1070,59,37,1.5,290,900,124,0,114,15
+621,Uchi-Koncrete,490,24,14,0,135,390,60,0,33,9
+622,Uchi-Koncrete (Double),980,48,28,0,265,780,120,0,66,19
+623,Valley Forge Freeze,490,29,18,1,140,730,56,0,50,7
+624,Valley Forge Freeze (Double),980,58,35,1.5,280,1470,111,0,100,14
+625,Vice Crispy Treat,370,16,10,0,110,260,50,0,43,8
+626,Vice Crispy Treat (Double),750,33,20,0,225,520,99,0,85,18
+627,Vietnamese Coffee and Donuts,470,23,13,0,115,330,56,0,46,9
+628,Vietnamese Coffee and Donuts (Double),930,47,26,0,230,660,112,0,93,18
+629,Washington Monu-Mint,430,24,14,0.5,125,150,53,0,46,7
+630,Washington Monu-Mint (Double),860,48,29,1.5,250,300,105,0,92,15
+631,West U-Nicorn,430,21,12,0,120,380,52,0,47,8
+632,West U-Nicorn (Double),850,42,24,0,240,750,104,0,95,16
+633,West Slide,480,24,11,0,145,310,60,0,53,9
+634,West Slide (Double),970,48,22,0,285,620,120,1,106,17
+635,Westberry,440,18,10,0,110,330,62,0,45,9
+636,Westberry (Double),880,35,20,0,225,650,124,1,90,18
+637,Whoopie Pie Oh My,480,25,13,0,130,330,57,0,51,9
+638,Whoopie Pie Oh My (Double),960,50,26,0,255,650,115,0,103,17
+639,Wicked Crunchie,470,20,11,0,120,460,66,0,49,9
+640,Wicked Crunchie (Double),950,39,23,0,240,920,132,0,98,19
+641,Winter's Wonderland,370,16,10,0,110,260,50,0,43,8
+642,Winter's Wonderland (Double),750,33,20,0,225,520,99,0,85,16
+643,Wolverine Dream,490,20,10,0,110,310,67,1,51,9
+644,Wolverine Dream (Double),970,41,20,0,225,620,134,2,101,19
+645,World's Fare,370,16,10,0,110,260,50,0,43,8
+647,Concrete Mix-Ins**,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+649,Almonds,80,7,0.5,0,0,0,3,2,1,3
+651,Almond Sable (Ir's Delicious Desserts),80,4.5,1.5,0,0,50,8,0,3,1
+653,Amarena Cherries,40,0,0,0,0,0,9,0,8,0
+655,Apple Fritter (Randy's Donuts),45,3,1,0,0,45,5,0,1,1
+656,Banana Bread,50,3,0,0,5,30,6,0,3,1
+657,Banana Bread Donut (Glazed and Confused),35,1,0,0,0,45,6,0,2,1
+658,Bananas,10,0,0,0,0,0,3,0,2,0
+660,Bananas Foster Cupcake (Sugar Ray's Bakery),150,6,2,0,20,150,23,0,16,1
+661,Bee Sting Bar (Baked & Wired),70,3.5,1.5,0,5,40,9,0,4,1
+663,Belgian Waffle,45,2,0,0,5,50,6,0,2,1
+665,Black Magic Brownie (Zingerman's),60,2.5,0.5,0,0,40,9,0,5,1
+667,Brownie (Mark's Bake Shoppe),70,4,1,0,10,50,7,0,5,1
+669,Brownie (Rocket Baby Bakery),60,2.5,0.5,0,5,40,9,0,5,1
+671,Brownie (Mindy's Hot Chocolate),60,3,1.5,0,15,20,8,0,6,1
+673,Brownie (Baked & Wired),50,2,0,0,10,35,8,0,6,1
+675,Cacao Nibs,90,7,4,0,0,10,4,4,0,2
+677,Café Sua Da Marshmallow Sauce (Greenway),40,0,0,0,0,0,10,0,8,0
+679,Cannoli Shell (Termini Bros.),50,2.5,1,0,5,0,7,0,2,1
+681,Cannoli Shell (High Street on Hudson),50,3,1,0,10,0,8,0,3,1
+683,Carrot Cake (UB Preserv),100,5,0,0,20,45,12,1,5,1
+684,Chocolate Cake Donut (Du's Donuts),60,3,0.5,0,10,30,8,0,4,1
+685,Chocolate Chip Cookie (Baked NYC),70,4,2,0,10,8,8,0,5,1
+686,Chocolate Chip Cookie (Baked and Wired),60,3,2,0,5,45,8,0,5,1
+688,Chocolate Chip Cookie (Winslow's Bakery),70,4,2,0,5,65,9,0,6,1
+689,Chocolate Chip Seasalt Cookie (Mindy's Hot Chocolate),60,3,2,0,10,70,9,0,6,1
+691,Chocolate Cloud Cookie (Baked),70,3.5,2,0,10,30,9,0,9,1
+693,Chocolate Covered Pretzels,70,2.5,1,0,0,70,10,0,5,1
+695,Chocolate Crunch Cupcake (Cupcakery),50,3,1,0,5,50,7,0,6,0
+697,Chocolate Crunchies (Valrhona),70,4.5,3,0,0,0,6,0,6,1
+699,Chocolate Fudge Brownie (Milk & Cookies),60,3,2,0,15,20,8,0,6,1
+701,Chocolate Sprinkles,60,3,2,0,0,5,9,0,7,1
+703,Chocolate Toffee,80,4.5,3,0,10,70,9,0,8,0
+705,Chocolate Truffle Cookie Dough,50,3,2,0,5,15,7,1,5,1
+707,Cinnamon Fudge Sauce,50,3.5,2,0,5,20,4,0,3,1
+709,Cinnamon Marshmallow Sauce,40,0,0,0,0,25,10,0,9,0
+711,Cinnamon Sugar,50,0,0,0,0,0,13,2,10,0
+713,Citrus Marinated Raspberries,15,0,0,0,0,0,4,1,3,0
+715,Cocoa Powder,20,1,1,0,0,35,1,1,1,1
+717,Coffee Beans,0,0,0,0,0,0,0,0,0,0
+719,Coffee Marshmallow Sauce,40,0,0,0,0,0,10,0,8,0
+721,Condensed Milk,45,1,1,0,5,20,8,0,8,1
+723,Cookie Butter,80,6,1,0,0,25,8,0,5,1
+725,COP Donut (Morningstar),60,4,2,0,5,55,6,0,2,1
+727,Couch Potato Cookie Dough (Fluff Bake Bar),140,8,4,0,20,95,16,0,15,2
+729,Crispy Crunchies,50,0,0,0,0,130,12,0,1,1
+731,Dark Chocolate Chunks (Askinosie Chocolate),80,5,3.5,0,0,0,7,3,4,1
+732,Dark Chocolate Chunks (Dandelion),70,5,3,0,0,0,7,0,4,1
+733,Dark Chocolate Chunks (Mast Brothers),80,6,4,0,0,5,7,2,4,1
+734,Dark Chocolate Chunks (Taza),80,4.5,3.5,0,0,0,7,1,4,1
+735,Dark Chocolate Chunks (Theo's),80,6,4,0,0,5,7,2,4,1
+736,Dark Chocolate Chunks (Zak's),70,5,3,0,0,0,7,0,4,1
+737,Dark Chocolate Cookie (Warm Belly),70,4,3,0,15,30,8,0,6,1
+738,Devil's Food Cake (Fluff Bake Bar),45,2,0,0,10,70,7,0,4,1
+739,Devil's Food Cake (It's Delicious Desserts),90,3.5,1,0,20,140,13,0,8,1
+740,Donut (Doughnut Plant),60,3,1,0,0,50,6,1,4,1
+741,Double Chocolate Chip Cookie (BIRD Bakery),60,3.5,1.5,0,0,30,9,0,5,1
+742,"Double Concrete, Chocolate",680,42,25,1.5,240,260,70,3,64,13
+743,"Double Concrete, Vanilla",610,33,20,0,225,380,67,3,66,15
+744,"Double Concrete, Vanilla and Chocolate",650,37,22,0.5,235,320,69,2,65,14
+745,Dulce De Leche Brownie (Zingerman's),60,3.5,0.5,0.5,10,75,7,0,5,1
+746,French Toast Donut (Federal Donuts),60,3.5,1.5,0,0,75,7,1,3,1
+747,Frosted Butter Cake (Make My Cake),50,2.5,0,0,10,40,8,0,6,0
+748,Fudge Sauce,50,3.5,2,0,5,20,4,0,3,1
+749,Glazed Donut (North Lime Donuts),60,3,1,0,0,50,6,1,5,1
+750,Graham Crackers,60,2,0,0,0,55,10,0,3,1
+751,Graham Crackers (Pollystyle),50,2,1,0,5,50,8,0,4,1
+752,Ginger Chocolate Chip Cookie Dough (Sono Baking Company),60,3,1,0,10,45,9,0,5,1
+753,Gooey Butter Cake (Park Ave. Coffee),50,2.5,1,0,15,30,8,1,6,1
+754,Hazelnut Brown Butter Streusel (Milk and Cookies),70,5,2,0,6,25,9,0,4,1
+755,Kitchen Sink Cookie (Mindy's Hot Chocolate),60,3,1.5,0,5,45,8,0,5,1
+756,Lemon Curd,45,1.5,1,0,20,0,8,0,5,0
+757,Lemon Ricotta,40,1.5,1,0,5,10,5,0,5,1
+758,Macaron Shells (Bakery Lorraine),60,2.5,3,0,0,10,8,0,6,1
+759,Malt Caramel (Bon Bon Bon),70,4.5,2.5,0,5,10,6,0,5,1
+760,Malted Marshmallow Sauce,35,0,0,0,0,15,9,0,8,0
+761,Maple Bacon Donut (Astro Donuts),50,2.5,1,0,15,100,4,0,1,2
+762,Marshmallow Sauce,40,0,0,0,0,0,10,0,9,0
+763,Matcha Green Tea Powder,40,0,0,0,0,0,0,0,0,14
+764,Minted Marshmallow Sauce,40,0,0,0,0,0,10,0,9,0
+765,Mint White Chocolate Ganache (Chocopologie),70,4,3,0,5,10,9,0,9,1
+766,Miso Huckleberry Hazelnut Blondie (Uchi),60,3,1.5,0,10,10,8,0,6,1
+767,Nutella Pretzel Cookie (Mark's Bake Shoppe),80,4.5,1,0,10,40,9,0,3,1
+768,Old Fashioned Doughnut (Doughnut Plant),60,3.5,1.5,0,5,55,7,0,3,1
+769,Old Fashioned Buttermilk Vanilla Donut (Kettle Glazed),50,2,1,0,5,50,7,0,4,1
+770,Old Fashioned Donut (Do Rite),70,4.5,2,0,0,70,7,0,3,1
+771,Pecan Shortbread (Scratch Baking),80,4.5,1.5,0,0,50,8,0,3,1
+772,Pecan Sticky Bun (Balthazar),50,3,2,0,10,30,6,0,3,1
+773,Pecans,100,10,1,0,0,0,2,1,1,1
+774,Pistachios,80,6,1,0,0,0,4,1,1,3
+775,Potato Chips (Route 11),80,4.5,0,0,0,55,8,0,0,1
+776,Rainbow Sprinkles,70,3,1,1.5,0,0,11,0,7,0
+777,Red Velvet Cake (South End Buttery),50,2.5,0,0,10,55,6,0,4,1
+778,Red Velvet Cake (The Cupcakery),50,2.5,1,0,5,60,6,0,4,1
+779,Salted Caramel Chocolate Brownie (Larder Baking Company),60,3.5,0.5,0.5,10,75,7,0,5,1
+780,Salted Caramel Sauce,45,2,1.5,0,5,135,7,0,7,0
+781,Salted Crunch Dark Chocolate Brownie (Southport Grocery & Caf,130,7,1.5,1,20,150,15,0,10,1
+782,Seasonal Pie,45,2.5,1,0,5,35,5,0,3,0
+783,Shortbread Cookie,70,3.5,2,0,10,55,9,0,3,1
+784,Shortbread (Pollystyle),70,3.5,1,0,0,50,9,0,3,1
+785,"Single Concrete, Chocolate",340,21,12,0.5,120,130,35,2,32,6
+786,"Single Concrete, Vanilla",310,16,10,0,110,190,33,0,33,7
+787,"Single Concrete, Vanilla and Chocolate",320,19,11,0,115,160,34,1,32,7
+788,Snickerdoodle (Lady Lexis),120,5,2,0,20,90,17,0,9,1
+789,Strawberry Cupcake (Sugar Ray's),45,2,0.5,0,5,45,6,0,4,0
+790,Strawberry Jam,35,0,0,0,0,0,9,0,8,0
+791,Strawberry Purée,10,0,0,0,0,0,3,0,2,0
+792,Strawberry & Rose Geranium Jam (Sqirl),25,0,0,0,0,0,6,0,5,0
+793,Toffee Shortbread (Pollystyle),70,4,2,0,0,45,8,0,3,1
+794,Triple Chocolate Sea Salt Cookie (Luna Baking Company),60,3,2,0,5,90,8,0,6,1
+795,Unicorn Bait Cookie Dough (Fluff Bake Bar),60,2.5,1,0,0,55,9,0,4,1
+796,Vanilla Glazed Donut (Astro Donuts),60,3.5,1.5,0,5,55,7,0,3,1
+797,Walnut Sable Cookie (Balthazar),70,3.5,1.5,0,5,65,8,0,4,1
+798,Walnuts,90,9,1,0,0,0,2,1,0,2
+799,White Peach Puree,10,0,0,0,0,0,3,0,3,0
+800,Whole Wheat Chocolate Chip Walnut Cookie (Manresa),70,4,2,0,10,50,8,1,6,1
+804,Drinks,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Protei
+806,Shack-made Lemonade Small,160,0,0,0,0,10,43,0,40,0
+808,Shack-made Lemonade Large,270,0,0,0,0,15,70,0,66,0
+810,Featured Lemonade Small,150 - 230,0 - 4,0 - 4,0,0,5 - 15,39 - 50,0,36 - 47,0 - 1
+812,Featured Lemonade Large,250 - 380,0 - 7,0 - 7,0,0,10 - 25,64 - 81,0,59 - 79,0 - 1
+814,Fresh Brewed Iced Tea Small,5,0,0,0,0,10,1,0,0,0
+816,Fresh Brewed Iced Tea Large,5,0,0,0,0,15,2,0,0,0
+818,Fresh Brewed Sweetened Iced Tea Small,110,0,0,0,0,10,28,0,27,0
+820,Fresh Brewed Sweetened Iced Tea Large,170,0,0,0,0,15,45,0,44,0
+822,Fifty-Fifty Small,80,0,0,0,0,10,22,0,20,0
+824,Fifty-Fifty Large,140,0,0,0,0,15,36,0,33,0
+826,Coke Small,140,0,0,0,0,45,39,0,39,0
+828,Coke Large,210,0,0,0,0,65,58,0,58,0
+830,Diet Coke Small,0,0,0,0,0,40,0,0,0,0
+832,Diet Coke Large,0,0,0,0,0,60,0,0,0,0
+834,Coke Zero Small,0,0,0,0,0,40,0,0,0,0
+836,Coke Zero Large,0,0,0,0,0,60,0,0,0,0
+838,Sprite Small,140,0,0,0,0,30,36,0,32,0
+840,Sprite Large,240,0,0,0,0,55,60,0,53,0
+842,Fanta Orange Small,160,0,0,0,0,60,45,0,44,0
+844,Fanta Orange Large,240,0,0,0,0,90,67,0,66,0
+846,Fanta Grape Small,180,0,0,0,0,35,49,0,49,0
+848,Fanta Grape Large,270,0,0,0,0,55,73,0,73,0
+850,Dr. Pepper Small,150,0,0,0,0,60,40,0,38,0
+852,Dr. Pepper Large,220,0,0,0,0,90,59,0,58,0
+854,Diet Dr. Pepper Small*,0,0,0,0,0,60,0,0,0,0
+856,Diet Dr. Pepper Large*,0,0,0,0,0,90,0,0,0,0
+858,Crush Small*,160,0,0,0,0,70,43,0,43,0
+860,Crush Large*,240,0,0,0,0,110,65,0,64,0
+862,Diet Pepsi Small*,0,0,0,0,0,35,0,0,0,0
+864,Diet Pepsi Large*,0,0,0,0,0,55,0,0,0,0
+866,Mist TWST Small*,140,0,0,0,0,35,39,0,39,0
+868,Mist TWST Large*,220,0,0,0,0,50,58,0,58,0
+870,Mountain Dew Small*,170,0,0,0,0,65,46,0,46,0
+872,Mountain Dew Large*,260,0,0,0,0,95,69,0,69,0
+874,Diet Mountain Dew Small*,5,0,0,0,0,50,1,0,1,0
+876,Diet Mountain Dew Large*,10,0,0,0,0,75,1,0,1,0
+878,Pepsi Small*,150,0,0,0,0,35,41,0,41,0
+880,Pepsi Large*,220,0,0,0,0,50,62,0,62,0
+882,PepsiMAX Small*,0,0,0,0,0,40,0,0,0,0
+884,PepsiMAX Large*,0,0,0,0,0,60,0,0,0,0
+886,Abita Root Beer Bottle,180,0,0,0,0,16,44,0,38,0
+888,Abita Root Beer Small,165,0,0,0,0,15,40,0,35,0
+890,Abita Root Beer Large,265,0,0,0,0,24,66,0,57,0
+892,Stumptown Cold Brew,5,0,0,0,0,5,0,0,0,0
+894,Stumptown Cold Brew Nitro*,5,0,0,0,0,5,0,0,0,0
+896,Stumptown Cold Brew Float*,280,15,9,0,100,180,30,0,30,7
+898,Orange Juice,165,0,0,0,0,12,41,2,30,3
+900,Honest Kids Apple Juice,40,0,0,0,0,0,10,0,9,0
+902,SHACK2O,0,0,0,0,0,0,0,0,0,0
+905,Beer & Wines,Calories,Total Fat,Sat Fat,Trans Fat,Chol.,Sodium,Total Carb,Fiber,Sugars,Prot
+907,Brooklyn Brewery ShackMeister Ale (16oz. Draft),210,0,0,0,0,0,17,0,0,2
+909,Brooklyn Brewery ShackMeister Ale (24oz. Draft),310,0,0,0,0,0,25,0,0,4
+911,Brooklyn Brewery ShackMeister Ale (32oz. Draft),420,0,0,0,0,0,33,0,0,5
+913,Brooklyn Brewery ShackMeister Ale (60oz. Draft),780,0,0,0,0,0,62,0,0,9
+915,Beer Float,490,15,9,0,100,190,52,0,30,8
+916,Shack White (6oz),140,0,0,0,0,0,4,0,0,0
+917,Shack White Bottle (750 ml),600,0,0,0,0,0,15,0,0,1
+918,Shack Red (6 oz),150,0,0,0,0,0,5,0,0,0
+919,Shack Red Bottle (750 ml),620,0,0,0,0,0,19,0,0,1
+920,Prosecco (375 ml),310,0,0,0,0,20,10,0,4,0
+921,Scarpetta (6oz),140,0,0,0,0,10,4,0,2,0
+922,Gotham Red Can,210,0,0,0,0,10,6,0,0,0
+923,Gotham White Can,200,0,0,0,0,10,5,0,0,0
+924,Gotham Rosé Can,210,0,0,0,0,10,9,0,0,1
